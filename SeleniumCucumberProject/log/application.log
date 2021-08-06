@@ -1,0 +1,221 @@
+2021-08-05 22:33:35,813 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-05 22:33:36,015 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-05 22:33:40,705 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-05 22:33:41,150 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-05 22:33:47,932 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-05 22:33:47,934 [main] INFO SeleniumCucumberProject - ************Click on logout link*************
+2021-08-05 22:33:53,807 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-05 22:33:53,812 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-05 22:33:55,667 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-05 22:33:55,669 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-05 22:33:58,943 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-05 22:33:59,250 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-05 22:34:04,997 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-05 22:34:04,999 [main] INFO SeleniumCucumberProject - ************Click on logout link*************
+2021-08-05 22:34:09,682 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-05 22:34:09,683 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-05 22:34:11,981 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-05 22:34:11,983 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-05 22:34:13,886 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-05 22:34:14,198 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-05 22:34:15,966 [main] INFO SeleniumCucumberProject - ************Login Successfull*************
+2021-08-06 16:04:43,895 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 16:04:44,714 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 16:04:47,215 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 16:04:47,685 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 16:04:54,534 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 16:04:54,535 [main] INFO SeleniumCucumberProject - ************Click on logout link*************
+2021-08-06 16:05:00,206 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 16:05:00,208 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 16:05:02,003 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 16:05:02,014 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 16:05:04,920 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 16:05:05,209 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 16:05:12,538 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 16:05:12,539 [main] INFO SeleniumCucumberProject - ************Click on logout link*************
+2021-08-06 16:05:19,426 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 16:05:19,439 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 16:05:21,695 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 16:05:21,701 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 16:05:24,445 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 16:05:24,734 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 16:05:25,396 [main] INFO SeleniumCucumberProject - ************Login Successfull*************
+2021-08-06 16:05:43,769 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 16:05:43,967 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 16:05:46,286 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 16:05:46,599 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 16:05:53,082 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 16:05:53,084 [main] INFO SeleniumCucumberProject - ************Click on logout link*************
+2021-08-06 16:05:58,773 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 16:05:58,777 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 16:06:00,562 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 16:06:00,569 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 16:06:02,384 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 16:06:02,657 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 16:06:05,806 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 16:06:05,807 [main] INFO SeleniumCucumberProject - ************Click on logout link*************
+2021-08-06 16:06:10,459 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 16:06:10,461 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 16:06:12,108 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 16:06:12,115 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 16:06:13,939 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 16:06:14,216 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 16:06:14,859 [main] INFO SeleniumCucumberProject - ************Login Successfull*************
+2021-08-06 16:09:25,383 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 16:09:25,543 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 16:09:30,347 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 16:09:31,150 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 16:09:40,375 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 16:09:40,377 [main] INFO SeleniumCucumberProject - ************Click on logout link*************
+2021-08-06 16:09:46,047 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 16:09:46,050 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 16:09:48,423 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 16:09:48,453 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 16:09:52,320 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 16:09:52,642 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 16:10:04,585 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 16:10:04,587 [main] INFO SeleniumCucumberProject - ************Click on logout link*************
+2021-08-06 16:10:09,564 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 16:10:09,566 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 16:10:15,254 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 16:10:15,268 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 16:10:18,920 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 16:10:19,652 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 16:10:20,714 [main] INFO SeleniumCucumberProject - ************Login Successfull*************
+2021-08-06 16:34:14,203 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 16:34:14,849 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 16:34:19,770 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 16:34:20,683 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 16:34:29,676 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 16:34:29,678 [main] INFO SeleniumCucumberProject - ************Click on logout link*************
+2021-08-06 16:34:35,427 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 16:34:35,431 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 16:34:57,856 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 16:34:58,081 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 16:35:01,810 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 16:35:02,154 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 16:35:39,011 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 16:35:43,296 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 16:35:43,310 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 16:35:45,695 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 16:35:46,032 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 16:35:50,727 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 16:35:50,730 [main] INFO SeleniumCucumberProject - ************Click on logout link*************
+2021-08-06 16:35:55,317 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 16:35:55,319 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 16:59:32,880 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 16:59:33,215 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 16:59:36,777 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 16:59:37,159 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 16:59:43,870 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 16:59:43,871 [main] INFO SeleniumCucumberProject - ************Click on logout link*************
+2021-08-06 16:59:48,665 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 16:59:48,668 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 17:00:55,222 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 17:00:55,424 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 17:00:58,531 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 17:00:58,879 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 17:01:34,478 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 17:01:36,958 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 17:01:36,962 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 17:01:40,979 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 17:01:41,305 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 17:01:57,182 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 17:01:59,177 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 17:01:59,181 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 17:02:01,541 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 17:02:01,897 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 17:02:23,696 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 17:02:25,870 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 17:02:25,876 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 17:02:28,910 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 17:02:29,250 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 17:02:35,236 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 17:02:35,237 [main] INFO SeleniumCucumberProject - ************Click on logout link*************
+2021-08-06 17:02:41,959 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 17:02:41,960 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 17:02:43,657 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 17:02:43,661 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 17:02:46,090 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 17:02:46,411 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 17:02:49,088 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 17:02:49,089 [main] INFO SeleniumCucumberProject - ************Click on logout link*************
+2021-08-06 17:02:53,666 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 17:02:53,667 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 17:02:55,209 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 17:02:55,214 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 17:02:58,758 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 17:02:59,108 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 17:02:59,824 [main] INFO SeleniumCucumberProject - ************Login Successfull*************
+2021-08-06 19:23:04,614 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 19:23:06,912 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 19:23:13,109 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 19:23:14,487 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 19:23:58,578 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 19:24:11,088 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 19:24:11,094 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 19:24:13,161 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 19:24:13,524 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 19:24:35,051 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 19:24:41,449 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 19:24:41,454 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 19:24:46,459 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 19:24:46,818 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 19:25:13,145 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 19:25:19,400 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 19:25:19,410 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 19:25:23,223 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 19:25:23,632 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 19:25:29,658 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 19:25:29,661 [main] INFO SeleniumCucumberProject - ************Click on logout link*************
+2021-08-06 19:25:34,339 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 19:25:34,340 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 19:25:36,220 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 19:25:36,225 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 19:25:39,689 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 19:25:40,003 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 19:25:45,737 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 19:25:45,739 [main] INFO SeleniumCucumberProject - ************Click on logout link*************
+2021-08-06 19:25:50,359 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 19:25:50,360 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 19:25:53,713 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 19:25:53,793 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 19:25:58,029 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 19:25:58,359 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 19:26:00,195 [main] INFO SeleniumCucumberProject - ************Login Successfull*************
+2021-08-06 19:27:03,687 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 19:27:04,272 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 19:27:08,832 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 19:27:09,179 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 19:27:42,969 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 19:27:50,225 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 19:27:50,234 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 19:27:53,035 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 19:27:53,359 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 19:28:09,404 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 19:28:18,628 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 19:28:18,678 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 19:28:24,102 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 19:28:24,468 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 19:28:50,750 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 19:28:53,255 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 19:28:53,264 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 19:28:57,404 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 19:28:57,726 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 19:29:04,008 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 19:29:04,010 [main] INFO SeleniumCucumberProject - ************Click on logout link*************
+2021-08-06 19:29:09,646 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 19:29:09,648 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 19:29:12,970 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 19:29:12,984 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 19:29:16,978 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 19:29:17,305 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 19:29:21,421 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 19:29:21,423 [main] INFO SeleniumCucumberProject - ************Click on logout link*************
+2021-08-06 19:29:26,068 [main] INFO SeleniumCucumberProject - ************Login Failure*************
+2021-08-06 19:29:26,070 [main] INFO SeleniumCucumberProject - ************Close the browser*************
+2021-08-06 19:29:28,750 [main] INFO SeleniumCucumberProject - ************Launching browser*************
+2021-08-06 19:29:28,754 [main] INFO SeleniumCucumberProject - ************Launching url*************
+2021-08-06 19:29:33,358 [main] INFO SeleniumCucumberProject - ************Providing user info*************
+2021-08-06 19:29:33,667 [main] INFO SeleniumCucumberProject - ************ Started login*************
+2021-08-06 19:29:35,525 [main] INFO SeleniumCucumberProject - ************Login Successfull*************
